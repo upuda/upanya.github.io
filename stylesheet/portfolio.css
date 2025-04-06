@@ -247,7 +247,6 @@ footer {
     float: left;
     width: 50%;
     padding: 1.25%;
-    height: 400px;
     background-color: #FFDCC5;
 }
 @media screen and (max-width: 576px) {
@@ -259,7 +258,6 @@ footer {
     float: left;
     width: 50%;
     padding: 1.25%;
-    height: 400px;
     background-color: #F28F6B;
 }
 .Row:after {
